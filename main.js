@@ -119,7 +119,7 @@ function aboutMe(){
     if(i==0){
         i=1;
         slogan.style.height="100px";
-        slogan2.innerHTML="这里是高坂滑稽果，一个果厨~ 这个废柴能熟练掌握面向百度编程、Windows和Linux的开关机、PS和PR的安装和卸载、Arduino和各种零件的购买和损坏，还喜欢打音游（（（。。。生命不息，折腾不止！目前坐等高考中...";
+        slogan2.innerHTML="驴哒，加藤惠的老公，资深二次元废宅，熟练掌握windows的开关机以及大部分软件的安装[doge]。喜欢看番和打游戏，刚刚大一，请大家不要内卷，谢谢……";
     } else {
         i=0;
         slogan.style.height="50px";
