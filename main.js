@@ -123,7 +123,7 @@ function aboutMe(){
     } else {
         i=0;
         slogan.style.height="50px";
-        slogan2.innerHTML="如果奇迹有颜色，那么一定是橙色！";
+        slogan2.innerHTML="这里是驴哒的小窝辣！";
     }
     
 }
