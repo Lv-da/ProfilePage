@@ -29,6 +29,7 @@ body {
     background-image: url("img/background.png");
     position: absolute;
     z-index: -5;
+    background-repeat: no-repeat;
     
     display: flex;
     justify-content: center;
