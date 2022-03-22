@@ -30,6 +30,7 @@ body {
     position: absolute;
     z-index: -5;
     background-repeat: no-repeat;
+    background-size: auto;
     
     display: flex;
     justify-content: center;
@@ -43,6 +44,7 @@ body {
     min-height: 100vh;
     background-image: url("img/background2.png");
     background-repeat: no-repeat;
+	background-size: auto;
 	
     position: absolute;
     z-index: -4;
